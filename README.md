@@ -11,13 +11,20 @@ I'm a Full-Stack & AI Engineer with 2+ years of experience building scalable web
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/samarth-pagaria-81a93b281/?skipRedirect=true)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/SamarthPagaria" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
 </p>
+<ul>
+  <li>
+    <a href="mailto:pagariasamarth@gmail.com">
+      pagariasamarth@gmail.com
+    </a>
+  </li>
+</ul>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
