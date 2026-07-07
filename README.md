@@ -98,5 +98,48 @@ I'm a Full-Stack & AI Engineer with 2+ years of experience building scalable web
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 </a>
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/langchain.svg" alt="LangChain" width="40" height="40"/>
+</a>
 
+<!-- LangGraph -->
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/langgraph.svg" alt="LangGraph" width="40" height="40"/>
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/huggingface-color.svg" alt="Hugging Face" width="40" height="40"/>
+</a>
+
+<!-- OpenRouter -->
+<a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/openrouter.svg" alt="OpenRouter" width="40" height="40"/>
+</a>
+
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/colab-color.svg" alt="Google Colab" width="40" height="40"/>
+</a>
+
+<!-- TanStack -->
+<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/tanstack.svg" alt="TanStack Query" width="40" height="40"/>
+</a>
+
+<!-- Zustand -->
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/zustand-original.svg" alt="Zustand" width="40" height="40"/>
+</a>
+
+<!-- Vercel -->
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/vercel.svg" alt="Vercel" width="40" height="40"/>
+</a>
+
+<!-- Render -->
+<a href="https://render.com/" target="_blank" rel="noreferrer">
+  <img src="./assets/icons/render.svg" alt="Render" width="40" height="40"/>
+</a>
 </p>
