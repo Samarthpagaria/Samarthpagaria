@@ -24,6 +24,9 @@ I'm a Full-Stack & AI Engineer with 2+ years of experience building scalable web
       pagariasamarth@gmail.com
     </a>
   </li>
+  <li>
+    <a href="samarthpagaria.vercel.app">Samarth Pagaria</a>
+  </li>
 </ul>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
