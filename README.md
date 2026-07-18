@@ -25,7 +25,7 @@ I'm a Full-Stack & AI Engineer with 2+ years of experience building scalable web
     </a>
   </li>
   <li>
-    <a href="https://samarthpagaria.vercel.app">Samarth Pagaria</a>
+    <a href="https://www.samarthpagaria.me/">Samarth Pagaria</a>
   </li>
 </ul>
 
